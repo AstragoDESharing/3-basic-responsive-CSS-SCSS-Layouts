@@ -1,7 +1,7 @@
+## View the Page
+https://astragodeshare.github.io/3-basic-responsive-CSS-SCSS-Layouts/
+
 ## Development
-
-<br>
-
 Start Developing:
 ```bash
 $ npm install
