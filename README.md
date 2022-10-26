@@ -1,4 +1,6 @@
-Source: https://youtu.be/o9MO_VdGAGs
+## Development
+
+<br>
 
 Start Developing:
 ```bash
@@ -11,3 +13,9 @@ Build the site:
 $ npm install
 $ npm run build
 ```
+
+## Credits
+
+Credits: Unleashed Design - 3 basic responsive CSS/SCSS Layouts für Anfänger/Beginner [Tutorial/Deutsch]
+
+Video URL: [https://youtu.be/o9MO_VdGAGs](https://youtu.be/o9MO_VdGAGs)
