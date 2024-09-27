@@ -1,7 +1,7 @@
-[![Github Pages Astro CI](https://github.com/AstragoDEShare/3-basic-responsive-CSS-SCSS-Layouts/actions/workflows/deploy.yml/badge.svg)](https://github.com/AstragoDEShare/3-basic-responsive-CSS-SCSS-Layouts/actions/workflows/deploy.yml)
+[![Github Pages Astro CI](https://github.com/AstragoDESharing/3-basic-responsive-CSS-SCSS-Layouts/actions/workflows/deploy.yml/badge.svg)](https://github.com/AstragoDEShare/3-basic-responsive-CSS-SCSS-Layouts/actions/workflows/deploy.yml)
 
 ## View the Page
-https://astragodeshare.github.io/3-basic-responsive-CSS-SCSS-Layouts/
+https://astragodesharing.github.io/3-basic-responsive-CSS-SCSS-Layouts/
 
 ## Development
 Start Developing:
